@@ -1,7 +1,7 @@
 # Automated Glaucoma Detection Using U-Net
 
 ## 1. Introduction
-This project presents a fully automated glaucoma detection system based on a U-Net deep learning architecture. The system performs optic disc (OD) and optic cup (OC) segmentation from retinal fundus images, computes the Cup-to-Disc Ratio (CDR), and classifies glaucoma using structural biomarkers. The framework is designed for scalable clinical screening and tele-ophthalmology applications.
+This project presents a fully automated glaucoma detection system based on a U-Net deep learning architecture. The system performs optic disc and optic cup segmentation from retinal fundus images, computes the Cup-to-Disc Ratio (CDR), and classifies glaucoma using structural biomarkers. The framework is designed for scalable clinical screening and tele-ophthalmology applications.
 
 ---
 
